@@ -103,6 +103,6 @@
 
 - [@江协科技](https://jiangxiekeji.com/)
 
-## License
+##  Statement
 
-XXX
+该仓库提供的任何工程文件仅供学习参考使用。倘若是用于其他用途出现问题，概不负责！
